@@ -1,15 +1,26 @@
-h1 {
-  color: red;
+h1{
+  color:red;
 }
-h1 {
+h1{
   color:#ff0000;
 }
 
-p {
+p{
   color:#0000ff;
 }
 h1{
   color: #ff0000;
   font-size:40px;
   font-family:serif;
+}
+h1{
+  color: #e6855e;
+  font-size: 30px;
+  background-color: #f3f372;
+  height:80px;
+  width:200px;
+}
+img{
+  height:50px;
+  width:70px;
 }
